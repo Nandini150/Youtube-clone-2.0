@@ -15,6 +15,48 @@ Features
 This is how the YouTube Clone interface looks like:
 
 ![YouTube Clone Screenshot]<img width="1440" alt="Screenshot 2024-02-18 at 3 21 27 AM" src="https://github.com/Nandini150/Youtube-clone-2.0/assets/80650101/36496f2b-612e-41a0-acd1-8df66f88a6e4">
-<img width="1440" alt="Screenshot 2024-02-18 at 3 21 27 AM" src="https://github.com/Nandini150/Youtube-clone-2.0/assets/80650101/daf48e7e-3dac-4d67-8139-be4dbec2425b">
+
+
+## Installation
+
+Install my-project with npm
+
+1) Clone the repository:
+```bash
+  git clone https://github.com/your-username/youtube-clone.git
+
+```
+2) Navigate into the project directory
+```bash
+  cd youtube-clone
+
+```
+3) Install dependencies:
+```bash
+npm install
+```
+  4) Start the development server:
+ ```bash
+  npm start
+  ```
+
+# API Integration
+This project uses REST APIs to fetch video data. You'll need to replace the placeholder API endpoints in the code with actual endpoints provided by services like YouTube Data API.
+
+
+Acknowledgements
+1)React
+2)Material UI
+3)YouTube Data API (or any other video API)
+4)Contributors to the project
+
+# Contributing
+Contributions are welcome! If you have any ideas, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
+
+
+
+
+
+
 
 
